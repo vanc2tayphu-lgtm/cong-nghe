@@ -22,5 +22,13 @@
     "role": "teacher",
     "createdDate": "2026-01-03T04:36:01.943Z",
     "scriptUrl": "https://script.google.com/macros/s/AKfycbzV1Jcf6pAwk1IVdkoD4HJKheyl96XvAEo2Pw9QHrDG4cS2IuTS4H6G8ITF8eREiwB6Ug/exec-lr8kyS9-HUtrZQazEv6fAXxuwQHqu1Jl00BnFOlBidAwLzFVGq-xBb-1_w/exec"
+  },
+  {
+    "username": "TÍ",
+    "password": "123456",
+    "fullName": "Nguyễn văn Tí",
+    "role": "student",
+    "createdDate": "2026-01-03T04:48:30.317Z",
+    "scriptUrl": ""
   }
 ]
