@@ -46,5 +46,13 @@
     "role": "teacher",
     "createdDate": "2026-01-03T05:23:16.797Z",
     "scriptUrl": ""
+  },
+  {
+    "username": "Tấn",
+    "password": "123456",
+    "fullName": "Trần vắn Tấn",
+    "role": "student",
+    "createdDate": "2026-01-03T07:00:46.965Z",
+    "scriptUrl": ""
   }
 ]
