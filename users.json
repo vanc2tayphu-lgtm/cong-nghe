@@ -126,5 +126,13 @@
     "role": "student",
     "createdDate": "2026-01-03T13:52:00.888Z",
     "scriptUrl": ""
+  },
+  {
+    "username": "thái bình sơn",
+    "password": "Phanthimyloan1@",
+    "fullName": "Thái BÌnh Sơn",
+    "role": "teacher",
+    "createdDate": "2026-01-03T14:20:14.393Z",
+    "scriptUrl": ""
   }
 ]
