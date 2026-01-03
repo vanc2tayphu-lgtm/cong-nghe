@@ -134,5 +134,13 @@
     "role": "teacher",
     "createdDate": "2026-01-03T14:20:14.393Z",
     "scriptUrl": ""
+  },
+  {
+    "username": "hamythuy7814",
+    "password": "Thuy@123",
+    "fullName": "Hồ Thị Như Thủy",
+    "role": "teacher",
+    "createdDate": "2026-01-03T14:50:03.713Z",
+    "scriptUrl": ""
   }
 ]
