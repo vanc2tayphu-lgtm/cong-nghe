@@ -222,5 +222,13 @@
     "role": "student",
     "createdDate": "2026-01-04T11:57:14.012Z",
     "scriptUrl": ""
+  },
+  {
+    "username": "thanhbinh1801",
+    "password": "binh18012009",
+    "fullName": "Hà Thanh Bình",
+    "role": "student",
+    "createdDate": "2026-01-04T12:04:38.573Z",
+    "scriptUrl": ""
   }
 ]
