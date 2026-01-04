@@ -150,5 +150,13 @@
     "role": "teacher",
     "createdDate": "2026-01-03T15:43:28.113Z",
     "scriptUrl": ""
+  },
+  {
+    "username": "niem",
+    "password": "Niem@230287",
+    "fullName": "Nguyễn thị niềm ",
+    "role": "teacher",
+    "createdDate": "2026-01-04T00:05:09.688Z",
+    "scriptUrl": ""
   }
 ]
