@@ -166,5 +166,13 @@
     "role": "student",
     "createdDate": "2026-01-04T02:25:40.895Z",
     "scriptUrl": ""
+  },
+  {
+    "username": "tấn tài",
+    "password": "Tai2025@",
+    "fullName": "TẤN TÀI",
+    "role": "teacher",
+    "createdDate": "2026-01-04T02:51:14.367Z",
+    "scriptUrl": ""
   }
 ]
