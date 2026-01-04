@@ -214,5 +214,13 @@
     "role": "teacher",
     "createdDate": "2026-01-04T10:41:40.194Z",
     "scriptUrl": ""
+  },
+  {
+    "username": "thắng",
+    "password": "thang@2010",
+    "fullName": "Nguyễn Đức Thắng ",
+    "role": "student",
+    "createdDate": "2026-01-04T11:57:14.012Z",
+    "scriptUrl": ""
   }
 ]
